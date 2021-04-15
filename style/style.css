@@ -71,7 +71,7 @@ a{
     width: 100vw;
     height:100vh;
 } */
-.grid{background: url('/img/Capture.PNG');
+.grid{background: url('../img/Capture.PNG');
    background-size:cover;
    background-repeat: no-repeat;
  width: 100vw;
